@@ -2,7 +2,7 @@
 This is a collection of my projects and progress. I hope you can learn from my headaches. Cheers!
 
 ## Ongoing Projects:
-- Wired mouse to Bluetooth mouse
+- Wired mouse to Bluetooth mouse https://github.com/KadeenP/Wired-BTMouse
 - Sound Board
 
 ## Finished Projects:
