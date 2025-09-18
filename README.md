@@ -10,3 +10,4 @@ This is a collection of my projects and progress. I hope you can learn from my h
 ## Finished Projects:
 - Contributions to Detectoma
 - Contributions to Autonomous Path-finding hovercraft
+
